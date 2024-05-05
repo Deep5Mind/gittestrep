@@ -48,4 +48,6 @@ plt.title('Approximation de l\'intégrale de g(x) entre 0 et 5', loc='right', fo
 plt.legend()
 plt.grid(True)
 plt.show()
+print ("hello leslye you've succeded in using github , be proud girl you're on the right way")
+
 
