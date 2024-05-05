@@ -50,4 +50,5 @@ plt.grid(True)
 plt.show()
 print ("hello leslye you've succeded in using github , be proud girl you're on the right way")
 
-
+list(enumerate(range(13)))
+sum(range(5,12))
